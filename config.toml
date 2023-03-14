@@ -1,4 +1,4 @@
-baseURL = "https://resepkulinersejati.web.app/"
+baseURL = "https://resepkulinersejati.firebaseapp.com/"
 languageCode = "id-ID"
 title = "Resep Kulineria"
 theme = "grid"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Dona"
-    homepage = "https://resepkulinersejati.web.app/"
+    homepage = "https://resepkulinersejati.firebaseapp.com/"
     bio = "Menu Tester"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
